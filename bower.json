@@ -1,10 +1,17 @@
 {
   "name": "templeton",
   "version": "0.0.0",
-  "dependancies": {
-
-  },
-  "devDependencies": {
-
-  }
+  "homepage": "https://github.com/BNOTIONS/templeton",
+  "authors": [
+    "BNOTIONS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
 }
