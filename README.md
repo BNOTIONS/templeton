@@ -10,6 +10,7 @@ If this is your first time using templeton you will need to install the system d
 
 ```
 $ gem install bundler
+$ bundle install
 $ thor templeton:setup
 ```
 
