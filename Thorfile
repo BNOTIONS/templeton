@@ -10,6 +10,8 @@ class Templeton < Thor
     %w{ yo bower grunt generator-angular }.each do |pkg|
       `npm install -g #{pkg}`
     end
+    `npm install`
+    `bower install`
   end
 
 end
