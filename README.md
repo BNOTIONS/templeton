@@ -12,3 +12,25 @@ If this is your first time using templeton you will need to install the system d
 $ gem install bundler
 $ thor templeton:setup
 ```
+
+Development Server
+==================
+
+```
+$ grunt && grunt serve
+```
+
+Building
+========
+
+```
+$ grunt build
+```
+
+
+Testing
+=======
+
+```
+$ grunt test
+```
