@@ -1,5 +1,12 @@
-templeton
+Templeton
 =========
 
 Simple angular template build with Yeoman. Want more? Just open an issue or pull request.
 
+Getting Started
+===============
+
+If this is your first time using Templeton you will need to install the system dependancies like so:
+
+$ gem install bundler
+$ thor templeton:setup
